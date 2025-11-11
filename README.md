@@ -10,4 +10,4 @@ Coming soon.
 
 ## UX Journal
 
-[My UX Journal](.journal/README)
+[My UX Journal](.journal/README.md)
