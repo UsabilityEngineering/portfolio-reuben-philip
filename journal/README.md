@@ -14,7 +14,7 @@ For example, today's grid is the picture above. As you can see, it is a 3x3 grid
 Looking at all the buttons and labels, the page has high **affordance** for the user. I did not find myself questioning what any of the buttons did. I also found the **mental model** of the game to be very **learnable**. Personally, I did not find myself questioning how to start playing the game, but I can also see how someone who has never played a game like this takes some time to figure out how to get started.
 
 <div align="center">
-  <img src = "/portfolio-reuben-philip/blob/assest/basketball%20rules.png">
+  <img src = "/portfolio-reuben-philip/assest/basketball%20rules.png">
   <p>Rules for the basketball section of the game</p>
 </div>
 
